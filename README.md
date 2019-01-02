@@ -6,6 +6,7 @@ App realizada con flutter y conectada a servidor node js.
 
 
 ## Screenshots
+![](https://github.com/criistian14/Flutter-Cotizaciones/blob/master/extras/Captura.PNG)
 
 
 ## Getting Started
